@@ -1,0 +1,25 @@
+{
+  "name": "PRT-47 Push-up Intercept",
+  "short_name": "PRT-47",
+  "description": "Ankle-safe upper-body log with push-up test projection.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1620",
+  "theme_color": "#0B1620",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230B1620'/%3E%3Ccircle cx='256' cy='256' r='150' fill='none' stroke='%23E8A33D' stroke-width='16'/%3E%3Ccircle cx='256' cy='256' r='96' fill='none' stroke='%2324404F' stroke-width='10'/%3E%3Cpath d='M256 256 L256 118' stroke='%235FD4C4' stroke-width='18' stroke-linecap='round'/%3E%3Ccircle cx='256' cy='256' r='16' fill='%23E8E3D6'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230B1620'/%3E%3Ccircle cx='256' cy='256' r='118' fill='none' stroke='%23E8A33D' stroke-width='14'/%3E%3Cpath d='M256 256 L256 148' stroke='%235FD4C4' stroke-width='16' stroke-linecap='round'/%3E%3Ccircle cx='256' cy='256' r='14' fill='%23E8E3D6'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
